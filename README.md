@@ -1,4 +1,7 @@
-https://github.com/mana-rj11/mana-rj11/blob/main/pixel-desk.jpg?raw=true
+<p align="center">
+  <img src="https://github.com/mana-rj11/mana-rj11/blob/main/pixel-desk.jpg?raw=true" alt="pixel art banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nilton Mana</h1>
 <h3 align="center">💻 Junior Full Stack Developer | 🇧🇪 Based in Belgium</h3>
 
