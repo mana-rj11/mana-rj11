@@ -47,3 +47,15 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mana-rj11&layout=compact&theme=tokyonight)
 
 ---
+
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_manarj11/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-mana-09522a2b4/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_manarj11)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](rjvara11)
+
+---
+
+<p align="center"><strong>Being Nice Is Easy | Here To Spread Love 💗</strong></p>
+
+
