@@ -11,7 +11,7 @@
 - 🎓 Étudiant en informatique à l'ISFCE 
 - 🔭 Je travaille actuellement sur des projets en PHP, JavaScript, React & Python
 - 🧠 J’apprends activement MySQL, Git et l'architecture MVC
-- 🎯 Objectif : décrocher un CDI comme développeur web full stack
+- 🎯 Objectif : obtenir mon bachelier et par la suite décrocher un CDI comme développeur web full stack
 - 📫 Contact pro : [---]
 
 ---
