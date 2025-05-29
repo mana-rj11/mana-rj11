@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilton Mana</h1>
-<h3 align="center">💻 Junior Full Stack Developer | 🎮 Gamer | 🇧🇪 Based in Belgium</h3>
+<h3 align="center">💻 Junior Full Stack Developer | 🇧🇪 Based in Belgium</h3>
 
 ---
 
