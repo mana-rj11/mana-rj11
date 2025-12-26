@@ -9,8 +9,8 @@
 
 ### 💫 About Me
 - 🎓 Étudiant en informatique à l'ISFCE 
-- 🔭 Je travaille actuellement sur des projets en PHP, JavaScript, React & Python
-- 🧠 J’apprends activement MySQL, Git et l'architecture MVC
+- 🔭 Je travaille actuellement sur des projets en HTML, CSS, React & Python
+- 🧠 J’apprends activement MySQL, Git et JavaScript
 - 🎯 Objectif : obtenir mon bachelier et par la suite décrocher un CDI comme développeur web full stack
 - 📫 Contact pro : [---]
 
