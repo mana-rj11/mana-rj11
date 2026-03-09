@@ -12,7 +12,7 @@
 - 🔭 Je travaille actuellement sur des projets en JavaScript, Java/POO et Angular.
 - 🧠 J’apprends activement MySQL et Git 
 - 🎯 Objectif : obtenir mon bachelier et par la suite décrocher un CDI comme développeur full stack
-- 📫 Contact pro : [---]
+- 📫 Contact pro : [niltonmana11@gmail.com]
 
 ---
 
