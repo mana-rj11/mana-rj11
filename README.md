@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me
-- 🎓 Étudiant en informatique à l'ISFCE
+- 🎓 Étudiant en développement d'applications à l'ISFCE
 - 🔭 Je travaille actuellement sur des projets en JavaScript, Java/POO et Angular.
 - 🧠 J’apprends activement MySQL et Git 
 - 🎯 Objectif : obtenir mon bachelier et par la suite décrocher un CDI comme développeur full stack
