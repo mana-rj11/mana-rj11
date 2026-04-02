@@ -41,8 +41,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mana-rj11&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mana-rj11&layout=compact&theme=tokyonight)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mana-rj11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mana-rj11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mana-rj11&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mana-rj11)
+
+</div>
 
 ---
 
