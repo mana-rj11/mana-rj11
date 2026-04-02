@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-[![GitHub Stats](https://readme-stats-cached.vercel.app/api?username=mana-rj11&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mana-rj11)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mana-rj11&theme=tokyonight&hide_border=true)](https://github.com/mana-rj11)
 
 </div>
 
