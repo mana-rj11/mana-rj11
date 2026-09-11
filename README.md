@@ -35,7 +35,6 @@
 
 ### 🔗 Liens utiles
 - 🌐 [Portfolio (à venir)](---)
-- 🧠 [LinkedIn](www.linkedin.com/in/nilton-mana-09522a2b4)
 
 ---
 
