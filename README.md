@@ -10,7 +10,7 @@
 ### 💫 About Me
 - 🎓 Étudiant en développement d'applications à l'ISFCE
 - 🔭 Je travaille activement sur Java/Spring Boot, Angular et les bases de données (PostgreSQL, Firebird, H2)
-- 🧠 J’apprends activement MySQL et Git 
+- 🧠 J’apprends activement Git 
 - 🎯 Objectif : obtenir mon bachelier et par la suite décrocher un CDI comme développeur full stack
 - 📫 Contact pro : [niltonmana11@gmail.com]
 
@@ -35,8 +35,7 @@
 
 ### 🔗 Liens utiles
 - 🌐 [Portfolio (à venir)](---)
-- 🧠 [LinkedIn](---)
-- 🖥️ [Mes projets publics](---)
+- 🧠 [LinkedIn](www.linkedin.com/in/nilton-mana-09522a2b4)
 
 ---
 
